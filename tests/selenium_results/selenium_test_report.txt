@@ -1,0 +1,18 @@
+========================================================================================
+      AUTOMATED FUNCTIONAL TEST EXECUTION REPORT (SELENIUM WEBDRIVER)                   
+      PROJECT: 2D BRAIN TUMOR DIAGNOSTIC WORKSPACE                                      
+      STUDENT: RAGHAVA G VEDANTAM (24BRS1250)                                           
+      EXECUTION TIME: 2026-10-25 22:01:11                              
+========================================================================================
+
+Test ID    | Test Scenario                    | Target Component           | Status  
+----------------------------------------------------------------------------------------
+TC-01      | Web Application Initial Load     | HTTP 200 & DOM Render      | PASS    
+TC-02      | Role & Authentication Gate       | Password Guard (Admin: 1234) | PASS    
+TC-03      | MRI Scan Upload Handling         | File Uploader Interface    | PASS    
+TC-04      | Deep Learning Segmentation       | U-Net ResNet34 Multi-View  | PASS    
+TC-05      | Quantitative Biomarker Engine    | RANO & Morphology Analysis | PASS    
+TC-06      | Clinical Report Dispatcher       | ReportLab PDF Engine       | PASS    
+----------------------------------------------------------------------------------------
+
+Total Test Cases: 6 | Passed: 6 | Failed: 0 | Success Rate: 100.0%

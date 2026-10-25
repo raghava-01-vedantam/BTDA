@@ -1,0 +1,93 @@
+[
+  {
+    "label": "Tumor, small",
+    "image": "data\\processed\\test\\images\\TCGA_DU_6407_19860514_TCGA_DU_6407_19860514_34.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_DU_6407_19860514_TCGA_DU_6407_19860514_34_mask.png",
+    "pixels": 37,
+    "positive": true
+  },
+  {
+    "label": "Tumor, small",
+    "image": "data\\processed\\test\\images\\TCGA_FG_7637_20000922_TCGA_FG_7637_20000922_31.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_FG_7637_20000922_TCGA_FG_7637_20000922_31_mask.png",
+    "pixels": 67,
+    "positive": true
+  },
+  {
+    "label": "Tumor, small",
+    "image": "data\\processed\\test\\images\\TCGA_CS_4941_19960909_TCGA_CS_4941_19960909_18.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_CS_4941_19960909_TCGA_CS_4941_19960909_18_mask.png",
+    "pixels": 74,
+    "positive": true
+  },
+  {
+    "label": "Tumor, medium",
+    "image": "data\\processed\\test\\images\\TCGA_FG_6688_20020215_TCGA_FG_6688_20020215_32.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_FG_6688_20020215_TCGA_FG_6688_20020215_32_mask.png",
+    "pixels": 160,
+    "positive": true
+  },
+  {
+    "label": "Tumor, medium",
+    "image": "data\\processed\\test\\images\\TCGA_HT_7608_19940304_TCGA_HT_7608_19940304_12.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_HT_7608_19940304_TCGA_HT_7608_19940304_12_mask.png",
+    "pixels": 406,
+    "positive": true
+  },
+  {
+    "label": "Tumor, medium",
+    "image": "data\\processed\\test\\images\\TCGA_CS_6665_20010817_TCGA_CS_6665_20010817_12.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_CS_6665_20010817_TCGA_CS_6665_20010817_12_mask.png",
+    "pixels": 934,
+    "positive": true
+  },
+  {
+    "label": "Tumor, large",
+    "image": "data\\processed\\test\\images\\TCGA_HT_7605_19950916_TCGA_HT_7605_19950916_28.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_HT_7605_19950916_TCGA_HT_7605_19950916_28_mask.png",
+    "pixels": 1621,
+    "positive": true
+  },
+  {
+    "label": "Tumor, large",
+    "image": "data\\processed\\test\\images\\TCGA_HT_7616_19940813_TCGA_HT_7616_19940813_17.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_HT_7616_19940813_TCGA_HT_7616_19940813_17_mask.png",
+    "pixels": 2280,
+    "positive": true
+  },
+  {
+    "label": "Tumor, large",
+    "image": "data\\processed\\test\\images\\TCGA_DU_7306_19930512_TCGA_DU_7306_19930512_21.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_DU_7306_19930512_TCGA_DU_7306_19930512_21_mask.png",
+    "pixels": 2614,
+    "positive": true
+  },
+  {
+    "label": "Tumor, large",
+    "image": "data\\processed\\test\\images\\TCGA_DU_A5TS_19970726_TCGA_DU_A5TS_19970726_18.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_DU_A5TS_19970726_TCGA_DU_A5TS_19970726_18_mask.png",
+    "pixels": 3442,
+    "positive": true
+  },
+  {
+    "label": "No tumor",
+    "image": "data\\processed\\test\\images\\TCGA_CS_4941_19960909_TCGA_CS_4941_19960909_1.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_CS_4941_19960909_TCGA_CS_4941_19960909_1_mask.png",
+    "pixels": 0,
+    "positive": false
+  },
+  {
+    "label": "No tumor",
+    "image": "data\\processed\\test\\images\\TCGA_CS_4941_19960909_TCGA_CS_4941_19960909_10.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_CS_4941_19960909_TCGA_CS_4941_19960909_10_mask.png",
+    "pixels": 0,
+    "positive": false
+  },
+  {
+    "label": "No tumor",
+    "image": "data\\processed\\test\\images\\TCGA_CS_4941_19960909_TCGA_CS_4941_19960909_19.png",
+    "mask": "data\\processed\\test\\masks\\TCGA_CS_4941_19960909_TCGA_CS_4941_19960909_19_mask.png",
+    "pixels": 0,
+    "positive": false
+  }
+]
